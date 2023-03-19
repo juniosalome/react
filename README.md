@@ -1,14 +1,13 @@
-# react-csharp
+# react
 
 
 ## Projeto
 
-Projeto simples usando c# e react.
+Projeto simples usando react.
 
 ## Projeto utiliza
 - Ubuntu 22.04.2 LTS
 - vscode
-- C#
 - React
 - Node
 
