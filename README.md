@@ -10,6 +10,7 @@ Projeto simples usando c# e react.
 - vscode
 - C#
 - React
+- Node
 
 
 
@@ -24,5 +25,6 @@ npx create-react-app react-version --template typescript
 
 ## Para rodar o projeto
 ```
-
+cd react-version
+npm start
 ```
